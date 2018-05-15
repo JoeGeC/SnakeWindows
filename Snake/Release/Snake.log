@@ -1,0 +1,54 @@
+﻿  AISnake.cpp
+c:\users\admin\documents\uni\cpp in games\snakeica\snake.h(48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Collectable.cpp
+  Game.cpp
+c:\users\admin\documents\uni\cpp in games\snakeica\snake.h(48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.h(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.h(133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.h(137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.h(141): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(87): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(88): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(292): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(293): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(298): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(313): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(320): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(324): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(434): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(437): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(440): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(444): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(448): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(452): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(458): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(467): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(499): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(509): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(616): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(617): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(626): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.cpp(641): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameState.cpp
+  main.cpp
+c:\users\admin\documents\uni\cpp in games\snakeica\snake.h(48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.h(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.h(133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.h(137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\game.h(141): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Planet.cpp
+c:\users\admin\documents\uni\cpp in games\snakeica\planet.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\planet.cpp(7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PlayerSnake.cpp
+c:\users\admin\documents\uni\cpp in games\snakeica\snake.h(48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Snake.cpp
+c:\users\admin\documents\uni\cpp in games\snakeica\snake.h(48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SolarSystem.cpp
+  Sun.cpp
+c:\users\admin\documents\uni\cpp in games\snakeica\sun.cpp(7): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\admin\documents\uni\cpp in games\snakeica\sun.cpp(8): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating code
+  All 648 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snake.vcxproj -> C:\Users\Admin\Documents\Uni\CPP in Games\Snake\Release\Snake.exe
